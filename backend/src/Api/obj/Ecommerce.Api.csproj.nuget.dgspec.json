@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\api\\Ecommerce.Api.csproj": {}
+    "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\Api\\Ecommerce.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\api\\Ecommerce.Api.csproj": {
+    "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\Api\\Ecommerce.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\api\\Ecommerce.Api.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "projectName": "Ecommerce.Api",
-        "projectPath": "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\api\\Ecommerce.Api.csproj",
+        "projectPath": "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\Api\\Ecommerce.Api.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\api\\obj\\",
+        "outputPath": "C:\\Users\\David\\Projects\\Amazon_shop\\backend\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -167,6 +167,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

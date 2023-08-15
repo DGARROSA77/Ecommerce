@@ -37,3 +37,8 @@ C:\Users\David\Projects\Amazon_shop\backend\src\api\obj\Debug\net7.0\refint\Ecom
 C:\Users\David\Projects\Amazon_shop\backend\src\api\obj\Debug\net7.0\Ecommerce.Api.pdb
 C:\Users\David\Projects\Amazon_shop\backend\src\api\obj\Debug\net7.0\Ecommerce.Api.genruntimeconfig.cache
 C:\Users\David\Projects\Amazon_shop\backend\src\api\obj\Debug\net7.0\ref\Ecommerce.Api.dll
+C:\Users\David\Projects\Amazon_shop\backend\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\David\Projects\Amazon_shop\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David\Projects\Amazon_shop\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David\Projects\Amazon_shop\backend\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David\Projects\Amazon_shop\backend\src\Api\bin\Debug\net7.0\System.Security.Permissions.dll

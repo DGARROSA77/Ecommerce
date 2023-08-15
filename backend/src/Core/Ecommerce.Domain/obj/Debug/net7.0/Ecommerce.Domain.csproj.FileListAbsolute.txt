@@ -9,3 +9,4 @@ C:\Users\David\Projects\Amazon_shop\backend\src\Core\Ecommerce.Domain\obj\Debug\
 C:\Users\David\Projects\Amazon_shop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
 C:\Users\David\Projects\Amazon_shop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
 C:\Users\David\Projects\Amazon_shop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll
+C:\Users\David\Projects\Amazon_shop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
