@@ -15,3 +15,5 @@ C:\Users\David\Projects\Amazon_shop\backend\src\Infrastructure\obj\Debug\net7.0\
 C:\Users\David\Projects\Amazon_shop\backend\src\Infrastructure\obj\Debug\net7.0\refint\Ecommerce.Infrastructure.dll
 C:\Users\David\Projects\Amazon_shop\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.pdb
 C:\Users\David\Projects\Amazon_shop\backend\src\Infrastructure\obj\Debug\net7.0\ref\Ecommerce.Infrastructure.dll
+C:\Users\David\Projects\Amazon_shop\backend\src\Infrastructure\bin\Debug\net7.0\Ecommerce.Infrastructure.runtimeconfig.json
+C:\Users\David\Projects\Amazon_shop\backend\src\Infrastructure\obj\Debug\net7.0\Ecommerce.Infrastructure.genruntimeconfig.cache
